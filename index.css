@@ -32,5 +32,8 @@ color: blue;
 .city img{
     float: right;
     background-color: coral;
-    
-}
+    }
+    .city button{
+        background-color: coral;
+        color: white;
+    }
