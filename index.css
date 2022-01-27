@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.logo{
+    float: left;
+
+}
+.nav-area{
+    float: right;
+    margin-top: 20px;
+    text-decoration: none;
+    padding-right: 3px;
+
+
+}
