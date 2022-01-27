@@ -2,24 +2,35 @@
     margin: 0%;
     padding: 0%;
 }
+.header{
+    width: 100px;
+    margin: 50px;
+    border: 1px;
+}
 
-.logo{
+.logo img{
     float: left;
 
 }
-.nav-area{
-    float: right;
-    margin-top: 20px;
-    text-decoration: none;
-    padding-right: 3px;
+.header{
+    margin-top: 10px;
+    padding-right: 330x;
+    display: flex;
+    flex: row;
 
+    
 }
-.nav-area li{
-    display: inline-block;
+.header li{
+    display: flex;
     color: black;
     padding:10px;
 }
-.nav-area li:hover{
+.header li:hover{
 background-color: coral;
 color: blue;
+}
+.city img{
+    float: right;
+    background-color: coral;
+    
 }
