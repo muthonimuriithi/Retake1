@@ -1,3 +1,9 @@
+
+body{
+    width: 100%;
+    display: block;
+}
+
 .nav-area{
     display: flex;
     
@@ -38,7 +44,7 @@ li{
 }
 
 
-#area{
+#area1{
     display: flex;
 }
 
@@ -108,3 +114,44 @@ li{
     
     
 }
+
+
+.part3{
+    background-color: whitesmoke;
+}
+
+
+#cards{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.cards1{
+    box-shadow: 0px 0px 5px grey;
+    border-radius: 10px;
+    width: 25%;
+    margin: 5%;
+    
+
+
+}
+
+.cards1 img{
+    width: 20%;
+}
+
+.cards1, h4, p{
+    text-align: center;
+    font-family: 'poppins';
+}
+
+
+.cards1 h4{
+    font-size: 20px;
+}
+
+.cards1, h4, p{
+    font-size: 10px;
+}
+
