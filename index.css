@@ -36,3 +36,75 @@ li{
 
     
 }
+
+
+#area{
+    display: flex;
+}
+
+.area1ab{
+    padding-left: 90px;
+    padding-top: 100px;
+}
+
+#area1 .text .p1{
+    font-family: 'poppins';
+    font-weight: bold;
+    font-size: 35px;
+}
+
+#area1 .text .p2{
+    font-family: 'poppins';
+    font-size: 15px;
+    padding-top: 35px;
+}
+
+#order-button{
+    margin-left: 10px;
+    margin-top: 100px;
+    
+}
+
+#order-button{
+    
+    height: 50px;
+    width: 150px;    
+    color: white;
+    background-clip: content-box;
+    background-color: #fa963e;
+    border-radius: 10px 10px 0px 10px;
+    
+}
+
+#order-button h3{
+    text-align: center;
+    padding-top: 13px;
+    font-family: 'poppins';
+    font-size: 15px;
+}
+#order-button h3 a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+#order-button h3 a:hover{
+    color: black;
+
+    
+}
+
+.area1a{
+    width: 50%;
+    float: left;
+    padding: 0x;
+    
+}
+
+.area1a img{
+    width: 59%;
+    padding-top: 20px;
+    padding-left: 35%;
+    
+    
+}
