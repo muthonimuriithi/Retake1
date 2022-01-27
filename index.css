@@ -1,39 +1,38 @@
-*{
-    margin: 0%;
-    padding: 0%;
-}
-.header{
-    width: 100px;
-    margin: 50px;
-    border: 1px;
-}
-
-.logo img{
-    float: left;
-
-}
-.header{
-    margin-top: 10px;
-    padding-right: 330x;
+.nav-area{
     display: flex;
-    flex: row;
+    
+}
+
+.name{
+    margin-top: 12px;
+}
+
+.name h3{
+    font-family: "lobster";
+}
+.nav-area .name h3 span{
+    color: #fec13d;
+}
+
+
+.menu{
+    margin-left: 50%;
+    justify-content: right;
+}
+.menu ul{
+    display: flex;
+    margin-top: 30px;
+    flex-direction: row;
 
     
 }
-.header li{
-    display: flex;
+li{
+    display: inline-block;
+    padding: 20px;
+}
+.menu ul li a{
+    text-decoration: none;
     color: black;
-    padding:10px;
+
+    
 }
-.header li:hover{
-background-color: coral;
-color: blue;
-}
-.city img{
-    float: right;
-    background-color: coral;
-    }
-    .city button{
-        background-color: coral;
-        color: white;
-    }
