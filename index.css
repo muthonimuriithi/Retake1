@@ -17,5 +17,9 @@
 .nav-area li{
     display: inline-block;
     color: black;
-    padding: 2px;
+    padding:10px;
+}
+.nav-area li:hover{
+background-color: coral;
+color: blue;
 }
