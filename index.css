@@ -48,8 +48,8 @@ li{
     display: flex;
 }
 
-.area1ab{
-    padding-left: 90px;
+.area1a{
+    padding-left: 40px;
     padding-top: 100px;
 }
 
@@ -139,6 +139,7 @@ li{
 
 .cards1 img{
     width: 20%;
+    margin-top: 20px;
 }
 
 .cards1, h4, p{
@@ -155,3 +156,75 @@ li{
     font-size: 10px;
 }
 
+
+
+
+
+
+
+
+
+
+.part4a h2{
+    text-align: center;
+}
+.part4a span{
+    color: #fa963e;
+    
+
+}
+
+
+.main-menu{
+    display: flex;
+    flex-direction: row;
+    padding-right: 5%;
+    padding-top: 2%;
+    margin-left: 8%;
+}
+
+
+.m1{
+    box-shadow: 0px 0px 5px grey;
+    border-radius: 30px;
+    width: 25%;
+    height: 80%;
+    margin-top: 5%;
+    margin-right: 5%;
+
+
+}
+
+
+.m1 img{
+    width: 50%;
+    margin-top: 20px;
+}
+
+.m1, h4, p{
+    text-align: center;
+    font-family: 'poppins';
+}
+
+
+.m1 h4{
+    font-size: 20px;
+}
+
+.m1, h4, p{
+    font-size: 10px;
+}
+
+
+.k-cart{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 30%;
+}
+
+.main-menu .m1 .k-cart .cart2{
+    width: 10%;
+    background-color: whitesmoke;
+}
