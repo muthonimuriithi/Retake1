@@ -228,3 +228,65 @@ li{
     width: 10%;
     background-color: whitesmoke;
 }
+
+
+
+
+
+.part5{
+    display: flex;
+    flex-direction: row;
+    background-color: whitesmoke;
+}
+
+
+.part1ab{
+    margin-top: 5%;
+}
+
+
+
+
+
+.part1ab .text .p3{
+    font-family: 'poppins';
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.part1ab .text .p4{
+    font-family: 'poppins';
+    font-size: 15px;
+    padding-top: 35px;
+}
+
+
+
+
+
+.part1ab {
+    width: 100%;
+    
+    
+    
+}
+
+
+
+.part2a{
+    width: 50%;
+}
+
+.part3a{
+    width: 50%;
+}
+
+
+
+.part2a img{
+    width: 40%;
+}
+
+.part3a img{
+    width: 40%;
+}
